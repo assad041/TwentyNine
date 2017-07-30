@@ -1,0 +1,60 @@
+		    Rules for twenty-nine are courtesy of John Mcleod at:-
+		    	    http://www.pagat.com/jass/29.html
+		        ===========================================
+    * Introduction
+    * Players and Cards
+    * Deal and Bidding
+    * The Play
+    * Scoring
+    * Variations 
+
+				        Introduction
+				        ============
+
+This is one of a group of South Asian trick-taking games in which the Jack and the Nine are the highest cards in every suit. It is almost certain that they are descended from the European family of Jass games, which originated in the Netherlands. Possibly they were brought to the Indian subcontinent from South Africa, by Asians who been influenced by the Afrikaans game of Klawerjas.
+
+29 is usually played by four players in fixed partnerships, partners facing each other. In this computer version you will
+play against three robots. Give them the names of friends or even foes.
+
+32 cards from a standard 52-card pack are used for play. There are eight cards in each of the usual "French" suits: hearts, diamonds, clubs and spades. The cards in every suit rank from high to low: J-9-A-10-K-Q-8-7. If you are new to the game you can make checks at any time of the high and values by clicking on "Card Values" in the menu.
+
+The aim of the game is to win tricks containing valuable cards. The values of the cards are:
+Jacks	3 points each
+Nines	2 points each
+Aces	1 point each
+Tens	1 point each
+Other cards (K, Q, 8, 7)       	no points
+
+This gives a total of 28 points for cards. In some versions of the game, the last trick is worth an extra card point, for a total of 29: this total explains the name of the game. We give you the choice in the options file of chosing whether to have the extra card point for the last trick or not. By default it is set to 28 and no point for the last trick
+
+Traditionally, the Twos, Threes Fours and Fives discarded from the full 52-card pack are used as trump indicators and score keepers but this is not necessary on a computer where all the details of bids, point scores and game points are show at the bottom of the screen. There is also however the game's traditional way of scoring using the 6 cards.
+
+Deal and play are clockwise; the cards are shuffled and then four cards are dealt to each player, one at a time.
+
+Based on these four cards, players bid for the right to choose trumps. Each bid is a number, and the highest bidder undertakes that his or her side will win in tricks at least the number of points bid. The player to dealer's left speaks first, and subsequent players, in clockwise order, may either bid higher or pass. The minimum bid allowed is 15 and the maximum is 28 or 29 depending on which option you choose. By default it will be 28. If any player bids, the auction continues for as many rounds as necessary until three players pass in succession. If the first three players pass, the dealer is forced to bid 15, which ends the auction.
+
+Some people play with just a simple bid where there is only one round of bidding. In this game the default is set for the multiple version of bidding as above but there is an option to change it to the simple bid.
+
+The final bidder chooses a trump suit which is not shown at this stage of the game. The dealer then completes the deal, giving four more cards to each player, so that everyone has eight.
+
+				        The Play
+				        ========
+The player to the dealer's left leads to the first trick; players must follow suit if possible, and the winner of each trick leads to the next. Initially the trump suit is unknown to the players other than the bidder. The first player who is unable to follow suit must ask the bidder to declare the trump suit; the bidder then shows the trump indicator card to everyone. If the bidder is the first player unable to follow suit, he must declare what suit is trumps at that point. A player unable to follow suit may play any card; there is no obligation to play a trump, even for the player who required trumps to be declared. Starting from the trick during which the trump suit is declared, each trick is won by the highest trump in it, or by the highest card of the suit led if it contains no trumps.
+
+At any time after the trump has been declared, a player who holds both the King and Queen of trumps in hand can declare them immediately after he or his partner has won a trick. This combination is called 'Royals', or a 'Pair'. Note that a player who originally held the King and Queen of trumps cannot declare them if one or both of them has already been played, and that they can only be declared after the declaring side has won either the trick during which trumps were declared or a later trick. If the Pair is declared by the bidder or his partner, the effect is to reduce by 4 the number of card points they require to fulfill their bid, subject to a minimum of 15; if an opponent of the bidder declares a Pair, it increases the number of points required by the bidding side by 4, subject to a maximum of 29.
+
+				        Scoring
+				        =======
+
+When all eight tricks have been played, each side counts the card points in the tricks it has won, the winners of the last trick adding an extra card point. If the bidding side took at least as many card points as they bid, adjusted for a declaration of a Pair if appropriate, they win one game point; otherwise they lose one game point. The score of the team playing against the bidder does not change.
+
+The game is won by the first team to reach a cumulative score of plus 6 game points, shown by six red pips. It also ends if a team reaches minus 6 game points thereby losing the game. The game points are shown as the game progresses at the bottom of the screen.
+
+			             Computer Actions
+			             ================
+
+These are very simple, all you have to do is click on the card you wish to play when it is your turn. You will also enter your bid into a box provided and click on an icon representing the four suits when it is your turn to choose trumps having won the bid.
+
+As well as the options mentioned above you can also turn off animation of the cards and most of the sounds. Some people like it and some do not.
+
+Click on the top right hand red cross when you have finished reading.
